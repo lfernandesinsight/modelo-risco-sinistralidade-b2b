@@ -1,0 +1,19 @@
+# Geração de dados sintéticos
+numpy>=1.26
+pandas>=2.2
+Faker>=24.0
+
+# Banco de dados (Postgres)
+SQLAlchemy>=2.0
+psycopg2-binary>=2.9
+
+# EDA e feature engineering
+matplotlib>=3.8
+seaborn>=0.13
+
+# Modelo preditivo
+scikit-learn>=1.4
+imbalanced-learn>=0.12
+
+# Utilitários
+python-dotenv>=1.0
